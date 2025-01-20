@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there! 👋 I'm Soban
 
-<!--
-**mo2daso/mo2daso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student & Law Graduate
 
-Here are some ideas to get you started:
+💻 Backend Developer Enthusiast | 🐍 Java & Python Lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+🌟 Passionate about crafting efficient and scalable backend solutions.
+
+📊 Intermediate in Excel and SQL for data-driven tasks.
+
+🤖 Exploring AI with a focus on Prompt Engineering and fundamental AI concepts.
+
+📈 Currently Focusing on Business and Data Analysis to derive actionable insights.
+
+📫 Let's Connect: [Github]([url](https://github.com/mo2daso)) || [LinkedIn]([url](https://www.linkedin.com/in/mohammad-soban-930114283/)) 
+
+[![Soban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo2daso&count_private=true&show_icons=true&theme=blue-green&hide_rank=false)](https://github.com/mo2daso/github-readme-stats)
