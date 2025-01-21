@@ -1,5 +1,5 @@
 ### 👋 Hi, I am Soban!
-🎓 Computer Science Student & Law Graduate<br><br>💻 Backend Developer Enthusiast | 🐍 Java & Python Lover<br><br>📊 Intermediate in Excel and SQL for data-driven tasks.<br><br>🤖 Exploring AI with a focus on Prompt Engineering and fundamental AI concepts.<br><br>📈 Currently Focusing on Business and Data Analysis to derive actionable insights.
+🎓 Computer Science Student & Law Graduate<br><br>💻 Backend Developer Enthusiast | 🐍 Java & Python Lover<br><br>📊 Intermediate in Excel and SQL for data-driven tasks.<br><br>🤖 Exploring AI with a focus on Prompt Engineering and fundamental AI concepts.<br><br>📈 Currently Focusing on Data Analysis to derive actionable insights.
 
 
 ### 🌐 Socials:
