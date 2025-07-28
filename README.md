@@ -7,7 +7,7 @@
 
 <!-- Dynamic Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Systems+Architect;AI+%26+ML+Engineer;Prompt+Engineering+Specialist;Full-Stack+Developer;Tech+Innovator+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Systems+Architect;AI+%26+ML+Engineer;Prompt+Engineering+Specialist;Tech+Innovator+with+Purpose" alt="Typing SVG" />
 </div>
 
 <br/>
